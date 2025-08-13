@@ -73,7 +73,7 @@ jobs:
         run: dotnet build Services.Toolkit.Forge.sln --configuration Release --no-restore --verbosity normal
 
       - name: Pack NuGet package
-        run: dotnet pack src/Services.Toolkit.Forge/Services.Toolkit.Forge.csproj -p:Configuration=Release -p:PackageId=Services.Toolkit.Forge --no-build -o ./artifacts
+        run: dotnet pack src/Services.Toolkit.Forge/Services.Toolkit.Forge.csproj -p:Configuration=Release -p:PackageId=Services.Toolkit.Forge.Core --no-build -o ./artifacts
 
       - name: Push package to NuGet
         run: dotnet nuget push "./artifacts/*.nupkg" --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --skip-duplicate
