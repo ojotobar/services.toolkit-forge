@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D7D0A7D6-5C4B-4BEE-A3B5-7093E7B77A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Toolkit.Forge", "src\Services.Toolkit.Forge\Services.Toolkit.Forge.csproj", "{937A59E4-ACFF-4782-AC4F-1BF2925F6508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937A59E4-ACFF-4782-AC4F-1BF2925F6508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937A59E4-ACFF-4782-AC4F-1BF2925F6508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937A59E4-ACFF-4782-AC4F-1BF2925F6508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937A59E4-ACFF-4782-AC4F-1BF2925F6508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{937A59E4-ACFF-4782-AC4F-1BF2925F6508} = {D7D0A7D6-5C4B-4BEE-A3B5-7093E7B77A12}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074959EC-D405-4E51-B9FB-61E897AF9444}
+	EndGlobalSection
+EndGlobal
