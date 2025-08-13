@@ -1,7 +1,7 @@
-# EFCore.DataForge
+# Services.Toolkit.Forge
 
-[![NuGet](https://img.shields.io/nuget/v/EFCore.DataForge.svg)](https://www.nuget.org/packages/EFCore.DataForge)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/EFCore.DataForge.svg)](https://www.nuget.org/packages/EFCore.DataForge)
+[![NuGet](https://img.shields.io/nuget/v/EFCore.DataForge.svg)](https://www.nuget.org/packages/Services.Toolkit.Forge)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/EFCore.DataForge.svg)](https://www.nuget.org/packages/Services.Toolkit.Forge)
 
 # Services.Toolkit.Forge
 
