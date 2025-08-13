@@ -9,10 +9,10 @@
 	  <Company>Kwik Nesta Inc.</Company>
 	  <Description>A shared toolkit for cross-cutting concerns such as global error handling and logging.</Description>
 	  <PackageTags>Middleware;Logging;Logger;Error handling;Toolkit</PackageTags>
-	  <RepositoryUrl>https://github.com/ojotobar/efcore-data-forge</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/ojotobar/services.toolkit-forge</RepositoryUrl>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
-	  <Version>0.9.9-rc</Version>
+	  <Version>0.9.9</Version>
   </PropertyGroup>
 
   <ItemGroup>
